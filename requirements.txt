@@ -1,0 +1,16 @@
+# Core compatibility fixes
+numpy==1.26.4
+protobuf==3.20.3
+chromadb==0.4.22
+
+# Langchain & Ollama support
+langchain
+langchain-community
+langchain-ollama
+
+# Unstructured PDF support
+unstructured[all-docs]
+
+# Support libraries
+ipywidgets
+tqdm
